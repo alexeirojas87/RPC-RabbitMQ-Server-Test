@@ -1,0 +1,24 @@
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Server.exe
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Server.deps.json
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Server.runtimeconfig.json
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Server.runtimeconfig.dev.json
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Server.dll
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\ref\RabbitMQ Server.dll
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Server.pdb
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.csprojAssemblyReference.cache
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.AssemblyInfoInputs.cache
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.AssemblyInfo.cs
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.csproj.CoreCompileInputs.cache
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.csproj.CopyComplete
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.dll
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\ref\RabbitMQ Server.dll
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.pdb
+D:\Work\Proyectos\vs2019\RabbitMQ Server\obj\Debug\net5.0\RabbitMQ Server.genruntimeconfig.cache
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Test.deps.json
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Test.runtimeconfig.json
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Test.runtimeconfig.dev.json
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Test.exe
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Test.dll
+D:\Work\Proyectos\vs2019\RabbitMQ Server\bin\Debug\net5.0\RabbitMQ Test.pdb
